@@ -1,0 +1,8 @@
+{
+  "name": "Bio Link & Music Profile",
+  "description": "Trang giới thiệu cá nhân đơn trang với nhạc nền tự động, hiệu ứng chuột 3D parallax và thay đổi giao diện theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
